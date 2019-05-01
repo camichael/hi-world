@@ -1,4 +1,4 @@
-# high-world
-Just Another Repository
+# hi-world
+not Just Another Repository, anymore...
 
-I have made the world a High
+...I have made a change to hi-world and committed it.
